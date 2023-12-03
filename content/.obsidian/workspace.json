@@ -1,0 +1,263 @@
+{
+  "main": {
+    "id": "08757afd6caaf277",
+    "type": "split",
+    "children": [
+      {
+        "id": "a697644c669bc32c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c52fa5b7016e60c2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Soulshard Saga/The Soulshard Saga.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "11f7484fc96f3382",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Soulshard Saga/Bandit.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "207fb8f64e98285a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Soulshard Saga/Characters/Voren.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f5809bc9babe895e",
+    "type": "split",
+    "children": [
+      {
+        "id": "b9162d2fb6d2d5d5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "437b97cc7f9e7a3c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ef9a3f3fd64fede6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8d0509e4c8b8cca6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "71e7a2ca1b084928",
+    "type": "split",
+    "children": [
+      {
+        "id": "ee6c066c27c2611d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "13478746a65fd479",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "The Soulshard Saga/The Soulshard Saga.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "04232251dfad5dba",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "The Soulshard Saga/The Soulshard Saga.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cc263a447da396df",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "78b4c5add55d89a6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "The Soulshard Saga/The Soulshard Saga.md"
+              }
+            }
+          },
+          {
+            "id": "7ebc4b0582adad23",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "3ce9382ef2afee9e",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {}
+            }
+          },
+          {
+            "id": "f7fbae93ec6b38ab",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "82ced6e3ce120fd2",
+            "type": "leaf",
+            "state": {
+              "type": "rpg-manager-options",
+              "state": {}
+            }
+          },
+          {
+            "id": "eb973dc7947a2d47",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 8
+      }
+    ],
+    "direction": "horizontal",
+    "width": 565.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "fantasy-content-generator:Fantasy Generators": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "rpg-manager:RPG Manager": false
+    }
+  },
+  "active": "437b97cc7f9e7a3c",
+  "lastOpenFiles": [
+    "The Soulshard Saga/The Soulshard Saga.md",
+    "The Soulshard Saga/Bandit.md",
+    "The Soulshard Saga/Session Recaps/Session 2 - Onward to Arborea.md",
+    "The Soulshard Saga/Characters/Voren.md",
+    "The Soulshard Saga/Characters/Gertrude.md",
+    "The Soulshard Saga/Characters/Frodo.md",
+    "Assets/Pasted image 20231120214521.png",
+    "Assets/Pasted image 20231118212827.jpg",
+    "Untitled.md",
+    "Assets/sd.md",
+    "Assets/Untitled 1.md",
+    "Assets/The soothsayer.jfif",
+    "The Soulshard Saga/Untitled.md",
+    "Assets/Pasted image 20231118212827 1.jpg",
+    "Assets/Pasted image 20231118212827 1.jfif",
+    "Gertrude.md",
+    "The Soulshard Saga/Session Recaps",
+    "The Soulshard Saga/Characters",
+    "Assets/Frodo 1.jfif",
+    "Assets",
+    "The Soulshard Saga",
+    "Assets/Shadow of the Demon Lord 2.jfif",
+    "Assets/Shadow of the Demon Lord 1.jfif",
+    "Characters/Voren.md",
+    "Shadow of the Demon Lord/Shadow of the Demon Lord.md",
+    "Shadow of the Demon Lord",
+    "z_Attachments/Voren.md",
+    "z_Attachments/Voren.md",
+    "Voren.png.md",
+    "GemmyDM.png.md",
+    "Attachments.md",
+    "imagename.png.md",
+    "Locations/Arborea/Arborea.md",
+    "Untitled.canvas",
+    "Northman Warrior.jfif.md",
+    "Characters/Northman Warrior.jfif.md",
+    "Locations/Arborea/Castor's Lab.md",
+    "Locations/Characters.md",
+    "Locations/Arborea/Honeycrisp's Library.md"
+  ]
+}

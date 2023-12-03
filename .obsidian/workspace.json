@@ -1,0 +1,161 @@
+{
+  "main": {
+    "id": "cff34ee918a79385",
+    "type": "split",
+    "children": [
+      {
+        "id": "aa88b71edf173b4b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b4d84ddd4a0b6cf4",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "assets/Pasted image 20231120214521.png"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6b39b58d78e5bcbb",
+    "type": "split",
+    "children": [
+      {
+        "id": "e599611c47d2b6b2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "42624eb2d3aa5a68",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "42663b211adc905d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "26b1ac2e32c50b5a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6f22173fb72e00dc",
+    "type": "split",
+    "children": [
+      {
+        "id": "d439356cc8fa003a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fb6d7435ab056162",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "assets/Pasted image 20231120214521.png",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "72a11976a8aec8e8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "assets/Pasted image 20231120214521.png",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3e84d9de6bab727b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "5a03166c0d2cea8f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "assets/Pasted image 20231120214521.png"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "b4d84ddd4a0b6cf4",
+  "lastOpenFiles": [
+    "public/characters/gertrude/gertrude/index.html",
+    "public/characters/gertrude/gertrude",
+    "public/characters/gertrude",
+    "content/characters/Gertrude/Gertrude.md",
+    "Untitled.canvas",
+    "content/characters/Characters.md",
+    "content/characters/Gertrude",
+    "assets/Pasted image 20231120214521.png",
+    "z_templates",
+    "README.md",
+    "static/demon.jpg.webp"
+  ]
+}
