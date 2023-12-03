@@ -3,13 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>/about/</loc>
+    <loc>https://stevechilly.github.com/about/</loc>
     <lastmod>2023-12-01T23:40:50-03:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>/</loc>
+    <loc>https://stevechilly.github.com/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
