@@ -18,13 +18,13 @@
 
 [[main]]
   name = "Frodo"
-  parent = "Parent"
+  parent = "Players"
   pageRef = "frodo"
   weight = 20
 
 [[main]]
   name = "Hiddon"
-  parent = "Parent"
+  parent = "Players"
   pageRef = "hiddon"
   weight = 30
 

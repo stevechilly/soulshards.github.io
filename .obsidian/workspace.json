@@ -4,16 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "aa88b71edf173b4b",
+        "id": "1759796bd339ddeb",
         "type": "tabs",
         "children": [
           {
-            "id": "b4d84ddd4a0b6cf4",
+            "id": "f3b980436767bc6c",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "assets/Pasted image 20231120214521.png"
+                "file": "content/about.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -83,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "assets/Pasted image 20231120214521.png",
+                "file": "content/about.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "assets/Pasted image 20231120214521.png",
+                "file": "content/about.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "assets/Pasted image 20231120214521.png"
+                "file": "content/about.md"
               }
             }
           }
@@ -144,8 +147,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b4d84ddd4a0b6cf4",
+  "active": "f3b980436767bc6c",
   "lastOpenFiles": [
+    "assets/gertrude.png",
+    "assets/Pasted image 20231120214521.png",
     "public/characters/gertrude/gertrude/index.html",
     "public/characters/gertrude/gertrude",
     "public/characters/gertrude",
@@ -153,7 +158,6 @@
     "Untitled.canvas",
     "content/characters/Characters.md",
     "content/characters/Gertrude",
-    "assets/Pasted image 20231120214521.png",
     "z_templates",
     "README.md",
     "static/demon.jpg.webp"
