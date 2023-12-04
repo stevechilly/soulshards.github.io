@@ -11,9 +11,12 @@
             "id": "f3b980436767bc6c",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "assets/image_random_2ff72sMc_1674953846479_1024.webp"
+                "file": "content/characters/Gertrude.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -83,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "assets/image_random_2ff72sMc_1674953846479_1024.webp",
+                "file": "content/characters/Gertrude.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "assets/image_random_2ff72sMc_1674953846479_1024.webp",
+                "file": "content/characters/Gertrude.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "assets/image_random_2ff72sMc_1674953846479_1024.webp"
+                "file": "content/characters/Gertrude.md"
               }
             }
           }
