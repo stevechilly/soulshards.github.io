@@ -11,12 +11,9 @@
             "id": "f3b980436767bc6c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "content/characters.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "assets/image_random_2ff72sMc_1674953846479_1024.webp"
               }
             }
           }
@@ -86,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/characters.md",
+                "file": "assets/image_random_2ff72sMc_1674953846479_1024.webp",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/characters.md",
+                "file": "assets/image_random_2ff72sMc_1674953846479_1024.webp",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/characters.md"
+                "file": "assets/image_random_2ff72sMc_1674953846479_1024.webp"
               }
             }
           }
@@ -149,8 +146,12 @@
   },
   "active": "f3b980436767bc6c",
   "lastOpenFiles": [
-    "assets/gertrude.png",
     "assets/Pasted image 20231120214521.png",
+    "content/characters/Gertrude.md",
+    "assets/demon2.jpg",
+    "assets/gertrude.png",
+    "static/gertrude.png",
+    "content/Untitled",
     "public/characters/gertrude/gertrude/index.html",
     "public/characters/gertrude/gertrude",
     "public/characters/gertrude",
