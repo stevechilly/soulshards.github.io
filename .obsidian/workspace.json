@@ -11,8 +11,13 @@
             "id": "f3b980436767bc6c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "content/_index.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 327.5
   },
   "right": {
     "id": "6f22173fb72e00dc",
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "content/_index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "content/_index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "content/_index.md"
+              }
             }
           }
         ]
@@ -140,27 +149,51 @@
   },
   "active": "f3b980436767bc6c",
   "lastOpenFiles": [
-    "content/characters/gertrude.png",
-    "content/characters/heck.jpg",
-    "content/characters/index.md",
-    "content/characters/Gertrude.md",
+    "content/story/part01.md",
+    "content/story/index 2.md",
+    "content/story/_index.md",
+    "content/story/Chapter 1/index.md",
+    "content/story/Chapter 1/Part 2 - Escape from the Darkthicket/part02.md",
+    "content/story/Chapter 1/Part 1 - Caravan Attack/part01.jpg",
+    "content/locations/arborea/index.md",
+    "content/locations/arcadia/index.md",
+    "content/locations/_index.md",
+    "content/locations/featured.jpg",
+    "content/_index.md",
     "content/characters/_index.md",
-    "public/characters/gertrude/index.html",
-    "public/gertrude.png",
-    "assets/Pasted image 20231120214521.png",
-    "assets/demon2.jpg",
-    "assets/gertrude.png",
-    "static/gertrude.png",
-    "content/Untitled",
-    "public/characters/gertrude/gertrude/index.html",
-    "public/characters/gertrude/gertrude",
-    "public/characters/gertrude",
-    "content/characters/Gertrude/Gertrude.md",
-    "Untitled.canvas",
-    "content/characters/Characters.md",
-    "content/characters/Gertrude",
-    "z_templates",
-    "README.md",
-    "static/demon.jpg.webp"
+    "resources/_gen/images/creatures/Flesh mimic/featured_hu4d7996ff652f3c4c2bd734e429d81089_161189_600x0_resize_q75_box.jpg",
+    "resources/_gen/images/creatures/Flesh mimic/featured_hu4d7996ff652f3c4c2bd734e429d81089_161189_1200x0_resize_q75_box.jpg",
+    "resources/_gen/images/creatures/Flesh mimic/featured_hu753f2aca1910044234ac2e77796ea9f8_157791_600x0_resize_q75_box.jpg",
+    "resources/_gen/images/creatures/Flesh mimic/featured_hu753f2aca1910044234ac2e77796ea9f8_157791_1200x0_resize_q75_box.jpg",
+    "resources/_gen/images/locations/featured_hu1e64634dca7bcf2531a5738e5ec28d9e_146631_1200x0_resize_q75_box.jpg",
+    "content/characters/whitman/index.md",
+    "content/characters/voren/index.md",
+    "layouts/partials/ByTitle.html",
+    "layouts/partials/extend-footer.html",
+    "layouts/partials",
+    "layouts/New folder",
+    "content/characters/notrick/index.md",
+    "content/characters/gertrude/index.md",
+    "content/characters/castor/index.md",
+    "content/characters/briar/index.md",
+    "content/characters/vesseloftheworldmother/index.md",
+    "public/characters/vesseloftheworldmother/index.html",
+    "public/characters/vesseloftheworldmother/featured_hu06cd5ee55fef93b9a19beedab2b4fb89_60737_600x0_resize_q75_box.jpg",
+    "public/characters/vesseloftheworldmother/featured_hu06cd5ee55fef93b9a19beedab2b4fb89_60737_1200x0_resize_q75_box.jpg",
+    "public/characters/vesseloftheworldmother/featured.jpg",
+    "public/characters/vesseloftheworldmother",
+    "resources/_gen/images/characters/vesseloftheworldmother",
+    "content/characters/honeycrisp/index.md",
+    "content/creatures/_index.md",
+    "content/index/_index.md",
+    "content/creatures/Flesh mimic/index.md",
+    "content/creatures/pixies/index.md",
+    "content/characters/index.md",
+    "public/creatures/Flesh mimic",
+    "content/characters/levi/index.md",
+    "content/characters/levi",
+    "public/index/page/1/index.html",
+    "content/wiki/index.md",
+    "Untitled.canvas"
   ]
 }

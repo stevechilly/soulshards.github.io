@@ -10,29 +10,29 @@
 # overridden by providing a weight value. The menu will then be
 # ordered by weight from lowest to highest.
 
-[[main]]
-  name = "Bartleby"
-  parent = "Players"
-  pageRef = "bartleby"
-  weight = 10
+#[[main]]
+#  name = "Bartleby"
+#  parent = "Players"
+#  pageRef = "bartleby"
+#  weight = 10
 
-[[main]]
-  name = "Frodo"
-  parent = "Players"
-  pageRef = "frodo"
-  weight = 20
+#[[main]]
+#  name = "Frodo"
+#  parent = "Players"
+#  pageRef = "frodo"
+#  weight = 20
 
-[[main]]
-  name = "Hiddon"
-  parent = "Players"
-  pageRef = "hiddon"
-  weight = 30
+#[[main]]
+#  name = "Hiddon"
+#  parent = "Players"
+#  pageRef = "hiddon"
+#  weight = 30
 
 
-[[main]]
-  name = "Players"
-  pageRef = "players"
-  weight = 1
+#[[main]]
+#  name = "Players"
+#  pageRef = "players"
+#  weight = 1
 
 [[main]]
   name = "Story"
@@ -42,17 +42,23 @@
 [[main]]
   name = "Characters"
   pageRef = "characters"
+  title = "characters"
   weight = 20
   
 [[main]]
   name = "Locations"
   pageRef = "locations"
+  weight = 30  
+
+[[main]]
+  name = "Creatures"
+  pageRef = "creatures"
   weight = 40  
   
-[[main]]
-  name = "Goals"
-  pageRef = "goals"
-  weight = 50
+#[[main]]
+#  name = "Goals"
+#  pageRef = "goals"
+#  weight = 50
 
 #[[main]]
 #  name = "example sub-menu 1"

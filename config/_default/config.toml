@@ -10,7 +10,7 @@ defaultContentLanguage = "en"
 
 enableRobotsTXT = true
 paginate = 10
-summaryLength = 0
+summaryLength = 50
 
 buildDrafts = false
 buildFuture = false
@@ -18,7 +18,7 @@ buildFuture = false
 # googleAnalytics = "G-XXXXXXXXX"
 
 [imaging]
-  anchor = 'Center'
+  anchor = 'Left'
 
 [taxonomies]
   tag = "tags"
@@ -62,4 +62,4 @@ buildFuture = false
       applyFilter = false
       name = 'fragmentrefs'
       type = 'fragments'
-      weight = 10
+		weight = 10
