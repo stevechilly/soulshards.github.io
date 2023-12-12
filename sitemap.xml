@@ -33,6 +33,16 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://stevechilly.github.com/characters/thrain/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://stevechilly.github.com/creatures/flame-salamanders/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://stevechilly.github.com/characters/laquesha/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
