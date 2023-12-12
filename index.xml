@@ -1,21 +1,141 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Shadow of the Demon Lord</title>
+    <title>SDL on Shadow of the Demon Lord</title>
     <link>https://stevechilly.github.com/</link>
-    <description>Recent content on Shadow of the Demon Lord</description>
+    <description>Recent content in SDL on Shadow of the Demon Lord</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     
     <atom:link href="https://stevechilly.github.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>About</title>
-      <link>https://stevechilly.github.com/about/</link>
-      <pubDate>Fri, 01 Dec 2023 23:40:50 -0330</pubDate>
+      <title>Briar</title>
+      <link>https://stevechilly.github.com/characters/briar/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://stevechilly.github.com/about/</guid>
-      <description>Testing!!!</description>
+      <guid>https://stevechilly.github.com/characters/briar/</guid>
+      <description>The Elven Leader</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://stevechilly.github.com/characters/briar/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>Castor</title>
+      <link>https://stevechilly.github.com/characters/castor/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
+      <guid>https://stevechilly.github.com/characters/castor/</guid>
+      <description>The Elven Engineer</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://stevechilly.github.com/characters/castor/featured.jfif" />
+    </item>
+    
+    <item>
+      <title>Gertrude</title>
+      <link>https://stevechilly.github.com/characters/gertrude/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://stevechilly.github.com/characters/gertrude/</guid>
+      <description>The Elven Exile</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://stevechilly.github.com/characters/gertrude/featurea.png" />
+    </item>
+    
+    <item>
+      <title>Honeycrisp</title>
+      <link>https://stevechilly.github.com/characters/honeycrisp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://stevechilly.github.com/characters/honeycrisp/</guid>
+      <description>The Elven Lorekeeper</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://stevechilly.github.com/characters/honeycrisp/featured.jfif" />
+    </item>
+    
+    <item>
+      <title>Notrick</title>
+      <link>https://stevechilly.github.com/characters/notrick/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://stevechilly.github.com/characters/notrick/</guid>
+      <description>The Elven Scout</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://stevechilly.github.com/characters/notrick/featured.jfif" />
+    </item>
+    
+    <item>
+      <title>Vessel of the World Mother</title>
+      <link>https://stevechilly.github.com/characters/vesseloftheworldmother/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://stevechilly.github.com/characters/vesseloftheworldmother/</guid>
+      <description>Life-giver of Arborea</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://stevechilly.github.com/characters/vesseloftheworldmother/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>Voren</title>
+      <link>https://stevechilly.github.com/characters/voren/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://stevechilly.github.com/characters/voren/</guid>
+      <description>Mercenary for hire</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://stevechilly.github.com/characters/voren/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>Laquesha</title>
+      <link>https://stevechilly.github.com/characters/laquesha/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://stevechilly.github.com/characters/laquesha/</guid>
+      <description>Head librarian at the Silverglow Archive</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://stevechilly.github.com/characters/laquesha/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>Whitman</title>
+      <link>https://stevechilly.github.com/characters/whitman/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://stevechilly.github.com/characters/whitman/</guid>
+      <description>Thrain&amp;rsquo;s right-hand man</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://stevechilly.github.com/characters/whitman/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>Arborea</title>
+      <link>https://stevechilly.github.com/locations/arborea/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://stevechilly.github.com/locations/arborea/</guid>
+      <description>Home of the Wood Elves</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://stevechilly.github.com/locations/arborea/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>Arcadia</title>
+      <link>https://stevechilly.github.com/locations/arcadia/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://stevechilly.github.com/locations/arcadia/</guid>
+      <description>The Dwarven Capital</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://stevechilly.github.com/locations/arcadia/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>Flesh mimic</title>
+      <link>https://stevechilly.github.com/creatures/flesh-mimic/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://stevechilly.github.com/creatures/flesh-mimic/</guid>
+      <description>Flesh mimic</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://stevechilly.github.com/creatures/flesh-mimic/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>Pixies</title>
+      <link>https://stevechilly.github.com/creatures/pixies/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://stevechilly.github.com/creatures/pixies/</guid>
+      <description>Gardeners of Arborea</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://stevechilly.github.com/creatures/pixies/featured.jfif" />
     </item>
     
   </channel>

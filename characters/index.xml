@@ -7,15 +7,95 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     
-    <lastBuildDate>Fri, 01 Dec 2023 23:40:50 -0330</lastBuildDate><atom:link href="https://stevechilly.github.com/characters/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://stevechilly.github.com/characters/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Briar</title>
+      <link>https://stevechilly.github.com/characters/briar/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://stevechilly.github.com/characters/briar/</guid>
+      <description>The Elven Leader</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://stevechilly.github.com/characters/briar/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>Castor</title>
+      <link>https://stevechilly.github.com/characters/castor/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://stevechilly.github.com/characters/castor/</guid>
+      <description>The Elven Engineer</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://stevechilly.github.com/characters/castor/featured.jfif" />
+    </item>
+    
     <item>
       <title>Gertrude</title>
-      <link>https://stevechilly.github.com/characters/gertrude/gertrude/</link>
-      <pubDate>Fri, 01 Dec 2023 23:40:50 -0330</pubDate>
+      <link>https://stevechilly.github.com/characters/gertrude/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://stevechilly.github.com/characters/gertrude/gertrude/</guid>
-      <description>![[Pasted image 20231120214521.</description>
+      <guid>https://stevechilly.github.com/characters/gertrude/</guid>
+      <description>The Elven Exile</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://stevechilly.github.com/characters/gertrude/featurea.png" />
+    </item>
+    
+    <item>
+      <title>Honeycrisp</title>
+      <link>https://stevechilly.github.com/characters/honeycrisp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
+      <guid>https://stevechilly.github.com/characters/honeycrisp/</guid>
+      <description>The Elven Lorekeeper</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://stevechilly.github.com/characters/honeycrisp/featured.jfif" />
+    </item>
+    
+    <item>
+      <title>Notrick</title>
+      <link>https://stevechilly.github.com/characters/notrick/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://stevechilly.github.com/characters/notrick/</guid>
+      <description>The Elven Scout</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://stevechilly.github.com/characters/notrick/featured.jfif" />
+    </item>
+    
+    <item>
+      <title>Vessel of the World Mother</title>
+      <link>https://stevechilly.github.com/characters/vesseloftheworldmother/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://stevechilly.github.com/characters/vesseloftheworldmother/</guid>
+      <description>Life-giver of Arborea</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://stevechilly.github.com/characters/vesseloftheworldmother/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>Voren</title>
+      <link>https://stevechilly.github.com/characters/voren/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://stevechilly.github.com/characters/voren/</guid>
+      <description>Mercenary for hire</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://stevechilly.github.com/characters/voren/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>Laquesha</title>
+      <link>https://stevechilly.github.com/characters/laquesha/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://stevechilly.github.com/characters/laquesha/</guid>
+      <description>Head librarian at the Silverglow Archive</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://stevechilly.github.com/characters/laquesha/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>Whitman</title>
+      <link>https://stevechilly.github.com/characters/whitman/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://stevechilly.github.com/characters/whitman/</guid>
+      <description>Thrain&amp;rsquo;s right-hand man</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://stevechilly.github.com/characters/whitman/featured.jpg" />
     </item>
     
   </channel>

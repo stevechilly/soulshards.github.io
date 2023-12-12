@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Characters on Shadow of the Demon Lord</title>
+    <link>https://stevechilly.github.com/series/characters/</link>
+    <description>Recent content in Characters on Shadow of the Demon Lord</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    
+    <atom:link href="https://stevechilly.github.com/series/characters/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Briar</title>
+      <link>https://stevechilly.github.com/characters/briar/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://stevechilly.github.com/characters/briar/</guid>
+      <description>The Elven Leader</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://stevechilly.github.com/characters/briar/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>Castor</title>
+      <link>https://stevechilly.github.com/characters/castor/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://stevechilly.github.com/characters/castor/</guid>
+      <description>The Elven Engineer</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://stevechilly.github.com/characters/castor/featured.jfif" />
+    </item>
+    
+    <item>
+      <title>Gertrude</title>
+      <link>https://stevechilly.github.com/characters/gertrude/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://stevechilly.github.com/characters/gertrude/</guid>
+      <description>The Elven Exile</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://stevechilly.github.com/characters/gertrude/featurea.png" />
+    </item>
+    
+    <item>
+      <title>Notrick</title>
+      <link>https://stevechilly.github.com/characters/notrick/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://stevechilly.github.com/characters/notrick/</guid>
+      <description>The Elven Scout</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://stevechilly.github.com/characters/notrick/featured.jfif" />
+    </item>
+    
+    <item>
+      <title>Characters</title>
+      <link>https://stevechilly.github.com/characters/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://stevechilly.github.com/characters/</guid>
+      <description> </description>
+      
+    </item>
+    
+  </channel>
+</rss>

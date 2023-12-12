@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Locations on Shadow of the Demon Lord</title>
+    <link>https://stevechilly.github.com/locations/</link>
+    <description>Recent content in Locations on Shadow of the Demon Lord</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    
+    <atom:link href="https://stevechilly.github.com/locations/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Arborea</title>
+      <link>https://stevechilly.github.com/locations/arborea/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://stevechilly.github.com/locations/arborea/</guid>
+      <description>Home of the Wood Elves</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://stevechilly.github.com/locations/arborea/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>Arcadia</title>
+      <link>https://stevechilly.github.com/locations/arcadia/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://stevechilly.github.com/locations/arcadia/</guid>
+      <description>The Dwarven Capital</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://stevechilly.github.com/locations/arcadia/featured.jpg" />
+    </item>
+    
+  </channel>
+</rss>
