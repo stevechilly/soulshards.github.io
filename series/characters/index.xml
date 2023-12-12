@@ -9,23 +9,13 @@
     
     <atom:link href="https://stevechilly.github.com/series/characters/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Briar</title>
-      <link>https://stevechilly.github.com/characters/briar/</link>
+      <title>Notrick</title>
+      <link>https://stevechilly.github.com/characters/notrick/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://stevechilly.github.com/characters/briar/</guid>
-      <description>The Elven Leader</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://stevechilly.github.com/characters/briar/featured.jpg" />
-    </item>
-    
-    <item>
-      <title>Castor</title>
-      <link>https://stevechilly.github.com/characters/castor/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://stevechilly.github.com/characters/castor/</guid>
-      <description>The Elven Engineer</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://stevechilly.github.com/characters/castor/featured.jfif" />
+      <guid>https://stevechilly.github.com/characters/notrick/</guid>
+      <description>The Elven Scout</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://stevechilly.github.com/characters/notrick/featured.jfif" />
     </item>
     
     <item>
@@ -39,13 +29,23 @@
     </item>
     
     <item>
-      <title>Notrick</title>
-      <link>https://stevechilly.github.com/characters/notrick/</link>
+      <title>Castor</title>
+      <link>https://stevechilly.github.com/characters/castor/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://stevechilly.github.com/characters/notrick/</guid>
-      <description>The Elven Scout</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://stevechilly.github.com/characters/notrick/featured.jfif" />
+      <guid>https://stevechilly.github.com/characters/castor/</guid>
+      <description>The Elven Engineer</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://stevechilly.github.com/characters/castor/featured.jfif" />
+    </item>
+    
+    <item>
+      <title>Briar</title>
+      <link>https://stevechilly.github.com/characters/briar/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://stevechilly.github.com/characters/briar/</guid>
+      <description>The Elven Leader</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://stevechilly.github.com/characters/briar/featured.jpg" />
     </item>
     
     <item>

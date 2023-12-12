@@ -3,32 +3,12 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>https://stevechilly.github.com/characters/briar/</loc>
+    <loc>https://stevechilly.github.com/characters/whitman/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://stevechilly.github.com/characters/castor/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://stevechilly.github.com/characters/gertrude/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://stevechilly.github.com/characters/honeycrisp/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://stevechilly.github.com/characters/notrick/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://stevechilly.github.com/characters/vesseloftheworldmother/</loc>
+    <loc>https://stevechilly.github.com/creatures/pixies/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
@@ -38,17 +18,42 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://stevechilly.github.com/characters/vesseloftheworldmother/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://stevechilly.github.com/creatures/flesh-mimic/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://stevechilly.github.com/characters/notrick/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://stevechilly.github.com/characters/laquesha/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://stevechilly.github.com/characters/whitman/</loc>
+    <loc>https://stevechilly.github.com/characters/honeycrisp/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://stevechilly.github.com/index/</loc>
+    <loc>https://stevechilly.github.com/characters/gertrude/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://stevechilly.github.com/characters/castor/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://stevechilly.github.com/locations/arcadia/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
@@ -58,7 +63,12 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://stevechilly.github.com/locations/arcadia/</loc>
+    <loc>https://stevechilly.github.com/characters/briar/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://stevechilly.github.com/index/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
@@ -73,17 +83,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://stevechilly.github.com/creatures/flesh-mimic/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://stevechilly.github.com/locations/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://stevechilly.github.com/creatures/pixies/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
